@@ -1,0 +1,48 @@
+body {
+	background-color: lightblue;
+}
+
+
+#logo{
+	background-color: yellow;
+}
+
+.enlaces {
+	background-color: rgb(215, 226, 240);
+	font-size: 21px;
+}
+
+#busca,.video{
+	text-align: right;
+}
+
+.front{ 
+
+}
+
+.Más {
+	background-color: rgb(243, 239, 12);
+}
+
+h2{
+	text-align: center;
+	background-color: rgb(98, 98, 253);
+}
+
+p{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 15px;
+	text-align: center;
+}
+
+.white {
+	background-color: antiquewhite;
+}
+
+#rosas {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+*{
+margin: 5Px;
+}
